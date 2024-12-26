@@ -21,6 +21,19 @@ The main objectives of the Sales & Profit Insights Dashboard are:
 4. To track variances in key metrics and spot significant changes or trends.
 5. To facilitate monthly trend analysis for seasonality and sales cycle understanding.
 
+## Results:
+- The amount (CA) and quantity invoiced:
+  
+  <img width="671" alt="image" src="https://github.com/user-attachments/assets/09416555-b76f-46d6-9970-9030d1743b1e" />
+
+- The amount and quantity oredred analysis:
+  
+  <img width="673" alt="image" src="https://github.com/user-attachments/assets/79c6dd2d-c770-49e1-b9f8-f8d8f0f96584" />
+
+- Profit results analysis:
+  
+  <img width="673" alt="image" src="https://github.com/user-attachments/assets/4125ae6c-5429-48e7-af3c-da2f861468f5" />
+
 ## Features
 - **Key Performance Indicators (KPIs)**: Quickly see the current and prior period values for total sales, units sold, and profit, along with percentage variances.
 - **Filtering and Drill-Down Capabilities**: Filter data by Year, Month, Region, Category, Segment, and more for a granular view.
